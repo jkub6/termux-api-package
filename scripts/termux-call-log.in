@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/bash
+#!/usr/bin/env bash
 set -u
 
 PARAM_LIMIT_DEFAULT=10
